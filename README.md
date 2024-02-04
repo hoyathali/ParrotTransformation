@@ -11,9 +11,6 @@ ParrotTransformation is a project focused on replacing a general grayscale trans
 3. [Model Training](#model-training)
 4. [Integration](#integration)
 5. [Hardware Acceleration](#hardware-acceleration)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 

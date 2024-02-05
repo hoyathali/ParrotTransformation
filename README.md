@@ -2,7 +2,9 @@
 
 ## Overview
 
-ParrotTransformation is a project focused on replacing a general grayscale transformation function with a neural network for accelerated image processing. The neural network approximates the results of the original function, mimicking its behavior and enhancing performance through hardware accelerators.
+ParrotTransformation is a project focused on replacing a general grayscale transformation function with a neural network for accelerated image processing. The neural network approximates the results of the original function, mimicking its behaviour and enhancing performance through hardware accelerators.
+
+NNvsRegularFunction.png
 
 ## Table of Contents
 

@@ -4,7 +4,7 @@
 
 ParrotTransformation is an implementation of a [research paper](https://ieeexplore.ieee.org/document/6493641) aimed at accelerating general-purpose applications by substituting a conventional grayscale transformation function with a neural network. This implementation closely replicates the behaviour of the original function, achieving a notable 30% increase in inference speed through the strategic utilization of GPU and TPU accelerators. This work not only highlights the adaptability of hardware accelerators but also emphasizes the practical application of research findings in significantly accelerating a range of general-purpose applications. Furthermore, the neural network showcases high proficiency with an impressive 90% accuracy, affirming its capability to effectively emulate the desired grayscale transformation function for enhanced performance across diverse applications.
 
-<img src="https://github.com/hoyathali/ParrotTransformation/blob/main/resized_image.png" width="50%">
+<img src="https://github.com/hoyathali/ParrotTransformation/blob/main/NNvsRegularFunction.png" width="50%">
 
 ## Table of Contents
 
